@@ -2,8 +2,8 @@
 
 A four-step flow for event hosts to post what they need from an **event planner**, a **performer** or **crew**. Built with Next.js on the frontend and Node.js + Express + MongoDB on the backend.
 
-- **Live app:** _add your Vercel URL here_
-- **API:** _add your Render URL here_ (health check: `/api/health`)
+- **Live app:** https://gopratle-requirements-xi.vercel.app
+- **API:** https://gopratle-api-ivz9.onrender.com (health check: `/api/health`). It runs on Render's free tier, so the first request after a quiet spell can take up to ~50 seconds.
 
 ## The flow
 
